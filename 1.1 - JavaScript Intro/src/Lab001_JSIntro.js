@@ -1,7 +1,7 @@
 /* ===========================================================
    Lab 001 – JavaScript Intro
    Learn what JavaScript is, explore its syntax, and practice
-   declaring variables using let and const with proper naming rules.
+   declaring variables using let and const with proper naming rules..
    =========================================================== */
 
 
